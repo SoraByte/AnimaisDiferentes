@@ -1,0 +1,234 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    color: white;
+    text-shadow: 5px 5px 5px Black;
+}
+h2{
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+div.quadrado{
+    border: 3px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: lightgray;
+    width: 300px;
+    height: 280px;
+}
+div.quadrado#q7{
+    border: 3px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: lightgray;
+    width: 200px;
+    height: 200px;
+}
+div.quadrado#q8{
+    border: 3px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: lightgray;
+    width: 200px;
+    height: 200px;
+}
+div.quadrado#q9{
+    border: 3px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: lightgray;
+    width: 200px;
+    height: 200px;
+}
+div.quadrado#q10{
+    border: 3px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: lightgray;
+    width: 200px;
+    height: 200px;
+}
+div.quadrado#q11{
+    border: 3px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: lightgray;
+    width: 200px;
+    height: 200px;
+}
+div.quadrado#q12{
+    border: 3px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: lightgray;
+    width: 200px;
+    height: 200px;
+}div.quadrado#q13{
+    border: 3px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: lightgray;
+    width: 200px;
+    height: 200px;
+}
+div.quadrado#q14{
+    border: 3px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: lightgray;
+    width: 200px;
+    height: 200px;
+}
+div.quadrado#q15{
+    border: 3px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: lightgray;
+    width: 200px;
+    height: 200px;
+}div.quadrado#q16{
+    border: 3px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: lightgray;
+    width: 200px;
+    height: 200px;
+}
+div.quadrado#q17{
+    border: 3px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: lightgray;
+    width: 200px;
+    height: 200px;
+}
+div.quadrado#q18{
+    border: 3px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: lightgray;
+    width: 200px;
+    height: 200px;
+}
+div.quadrado#q19{
+    border: 3px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: lightgray;
+    width: 200px;
+    height: 200px;
+}
+div.quadrado#q20{
+    border: 3px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: lightgray;
+    width: 200px;
+    height: 200px;
+}
+div.quadrado#q21{
+    border: 3px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: lightgray;
+    width: 200px;
+    height: 200px;
+}
+div.quadrado#q22{
+    border: 3px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: lightgray;
+    width: 200px;
+    height: 200px;
+}
+div.quadrado#q23{
+    border: 3px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: lightgray;
+    width: 200px;
+    height: 200px;
+}
+div.quadrado#q24{
+    border: 3px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: lightgray;
+    width: 200px;
+    height: 200px;
+}
+h3{
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+h2#n1{
+    text-align: left;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+h2#n2{
+    text-align: left;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+h2#n3{
+    text-align: left;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+h2#n4{
+    text-align: left;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+h2#n5{
+    text-align: left;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+h2#n6{
+    text-align: left;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+h2#n7{
+    text-align: left;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+h2#n8{
+    text-align: left;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+h2#n9{
+    text-align: left;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+h2#n10{
+    text-align: left;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+h2#n11{
+    text-align: left;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+h2#n12{
+    text-align: left;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+h2#p1{
+    text-align: right;
+    color: white;
+    text-shadow: 4px 4px 4px black;
+    font-style: italic;
+}
